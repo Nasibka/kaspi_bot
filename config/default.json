@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "db": "mongodb://127.0.0.1:27017/kaspiPricesBot",
+        "port": "8088",
+        "url": "localhost",
+        "botToken": "1543196457:AAFue2_Y4_MLVnhGRsBop4llaf9At_DIOOQ" 
+    }
+}
+  
